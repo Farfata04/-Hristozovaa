@@ -1,0 +1,43 @@
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\bin\Debug\net6.0-windows\MusicShop.exe
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\bin\Debug\net6.0-windows\MusicShop.deps.json
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\bin\Debug\net6.0-windows\MusicShop.runtimeconfig.json
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\bin\Debug\net6.0-windows\MusicShop.dll
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\bin\Debug\net6.0-windows\MusicShop.pdb
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.Admin.resources
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.Form1.resources
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.Form2.resources
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.Properties.Resources.resources
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.User.resources
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.AssemblyInfo.cs
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.dll
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\refint\MusicShop.dll
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.pdb
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\MusicShop.genruntimeconfig.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A\MusicShop\obj\Debug\net6.0-windows\ref\MusicShop.dll
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\bin\Debug\net6.0-windows\MusicShop.exe
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\bin\Debug\net6.0-windows\MusicShop.deps.json
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\bin\Debug\net6.0-windows\MusicShop.runtimeconfig.json
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\bin\Debug\net6.0-windows\MusicShop.dll
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\bin\Debug\net6.0-windows\MusicShop.pdb
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.Admin.resources
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.Form1.resources
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.Form2.resources
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.Properties.Resources.resources
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.User.resources
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.AssemblyInfo.cs
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.dll
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\refint\MusicShop.dll
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.pdb
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.genruntimeconfig.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\ref\MusicShop.dll
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\MusicShop\obj\Debug\net6.0-windows\MusicShop.chalga.resources
